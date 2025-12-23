@@ -10,20 +10,6 @@ TaqaTechno is a technology company specializing in Odoo ERP implementations, cus
 
 - **Website**: [taqatechno.com](https://www.taqatechno.com/)
 - **Email**: info@taqatechno.com
-- **Location**: Saudi Arabia
-
----
-
-## Our Repositories
-
-| Repository | Description |
-|------------|-------------|
-| `relief_center` | Disaster relief management with MapTiler integration |
-| `multi-theming-17` | Multi-website theming for Odoo 17 |
-| `taqat-prop` | Property management solutions |
-| `plugins` | Shared plugins and utilities |
-| `rc-demo` | Demo and testing repository |
-| `pearlpixels` | Web design projects |
 
 ---
 
